@@ -33,6 +33,7 @@ SceneText::~SceneText()
 
 void SceneText::Init()
 {
+	//////PUSHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 	// Blue background
 	glClearColor(0.0f, 0.0f, 0.4f, 0.0f);
 	// Enable depth test
